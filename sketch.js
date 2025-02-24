@@ -5,6 +5,10 @@ function setup() {
 }
 
 function draw() {
+  background(220);
+  //COMMENT HERE
+
+  //COMMENT HERE
   //background(220);
   // Draw a circle that follows the mouse
   fill(255, 0, 0); // Set the fill color to red
